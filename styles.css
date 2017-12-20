@@ -2,7 +2,8 @@ h1 {
 	text-align: center;
 }
 
-.mainHeading {
+/*THIS WAS A CLASS, NOT AN ID*/
+#mainHeading {
 	background: #aaaaff;
 	color: #777777;
 }
